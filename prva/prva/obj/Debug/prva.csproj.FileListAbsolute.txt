@@ -1,0 +1,7 @@
+C:\neki\prva\prva\bin\Debug\prva.exe.config
+C:\neki\prva\prva\bin\Debug\prva.exe
+C:\neki\prva\prva\bin\Debug\prva.pdb
+C:\neki\prva\prva\obj\Debug\prva.csproj.AssemblyReference.cache
+C:\neki\prva\prva\obj\Debug\prva.csproj.CoreCompileInputs.cache
+C:\neki\prva\prva\obj\Debug\prva.exe
+C:\neki\prva\prva\obj\Debug\prva.pdb
